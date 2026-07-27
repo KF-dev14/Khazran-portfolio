@@ -1,0 +1,45 @@
+/* src/pages/Contact.css */
+.contact-form {
+  background-color: #1e293b;
+  padding: 2rem;
+  border-radius: 10px;
+  border: 1px solid #334155;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.form-group label {
+  font-size: 0.9rem;
+  color: #cbd5e1;
+}
+
+.form-group input,
+.form-group textarea {
+  background-color: #0f172a;
+  border: 1px solid #334155;
+  color: #fff;
+  padding: 0.75rem;
+  border-radius: 6px;
+  font-family: inherit;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: #6366f1;
+}
+
+.success-message {
+  background-color: #064e3b;
+  color: #6ee7b7;
+  padding: 1.5rem;
+  border-radius: 8px;
+  text-align: center;
+}
