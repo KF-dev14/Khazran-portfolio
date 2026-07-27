@@ -25,7 +25,7 @@ export default function Home() {
       {/* HERO SECTION */}
       <section className="hero">
         <span className="badge">👋 Welcome to my portfolio</span>
-        <h1 className="hero-title">Building Modern Web Experiences</h1>
+        <h1 className="hero-title">Developing Modern Web Experiences</h1>
         <p className="hero-subtitle">
           I'm a full-stack developer dedicated to crafting clean, high-performance web applications using modern tech.
         </p>
