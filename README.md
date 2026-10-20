@@ -1,16 +1,41 @@
-# React + Vite
+# 💼 Khazran Fatima - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive personal portfolio website built using **React.js, Vite**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 🚀 Live Demo
+🔗 **[View Live Portfolio](https://khazran-portfolio.vercel.app)** *(Apna Vercel live link yahan replace karein)*
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### ✨ Key Features & Sections
+- **Hero Section:** Introduction with professional summary and call-to-action.
+- **Skills Showcase:** Highlighting Web Development (HTML/CSS, JS, React, PHP), React Native, Python, and AI Tools.
+- **Projects Gallery:** Featured projects including Route Optimization (Google Maps API), Aks-e-Khas, and Noor-ul-Quran Academy.
+- **Internship & Certifications:** 8-week React Native Internship (UE Jauharabad) and NAVTTC AI certification.
+- **Fully Responsive:** Smooth UI across Mobile, Tablet, and Desktop screens.
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### 🛠️ Tech Stack
+- **Framework & Build Tool:** React.js, Vite
+- **Styling:** Tailwind CSS / CSS3
+- **Deployment:** Vercel / Netlify
+
+---
+
+### 💻 How to Run Locally
+
+```bash
+# Clone the repository
+git clone [https://github.com/KF-dev14/Khazran-portfolio.git](https://github.com/KF-dev14/Khazran-portfolio.git)
+
+# Navigate to project directory
+cd Khazran-portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
